@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">chessgame</string>
+    <string name="Menu">Menu</string>
+    <string name="start">Start</string>
+    <string name="exit">exit</string>
+    <string name="playback">playback</string>
+    <string name="save_replay">Save Replay</string>
+    <string name="save">Save</string>
+    <string name="title">Title</string>
+    <string name="cancel">cancel</string>
+    <string name="sort_by_date">sort by date</string>
+    <string name="sort_by_title">sort by title</string>
+</resources>
